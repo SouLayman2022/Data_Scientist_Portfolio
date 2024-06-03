@@ -1,0 +1,6 @@
+#### pic size
+1280 x 720
+for display coeherence so idont want to make the pictures inside a flex container
+
+#### Force chrome to relaod the css to view changes :
+Ctrl + Shift + R
