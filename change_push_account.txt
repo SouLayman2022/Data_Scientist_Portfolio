@@ -1,4 +1,4 @@
-Get deafult account used to push :
+Get deafult git account used to push :
 	git config --list
 
 Change the global account to push
